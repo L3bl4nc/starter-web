@@ -20,6 +20,6 @@ Please fork this repository and then issue pull request for review.
 
 ### Copyright
 
-2014 Git.training.
+2014 Git.training. All rights reserved.
 
 Adding a phrase for rebasing example, then more changing from myfeature branch too.
